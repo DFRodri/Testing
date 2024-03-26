@@ -1,0 +1,21 @@
+{
+ "image": {
+  "url": "",
+  "proxy_url": "https://images-ext-1.discordapp.net/external/ySqUyudWImzNVQ7xINLqq7o2GL6_xpCtXt5mKMnZsL0/https/forwardfeed.github.io/ER-nextdex/static/sprites/DODRIO_REDUX.png",
+  "width": 64,
+  "height": 64
+ },
+ "fields": [],
+ "type": "rich",
+ "description": "Dodrio Redux @ Choice Band
+Ability: Sheer Force
+EVs: 252 Atk / 4 SpD / 252 Spe
+Adamant Nature
+- Body Slam
+- Double-Edge
+- Dragon Claw
+- Dragon Dance",
+ "thumbnail": {
+  "url": "https://forwardfeed.github.io/ER-nextdex/static/sprites/DODRIO_REDUX.png"
+ }
+}
