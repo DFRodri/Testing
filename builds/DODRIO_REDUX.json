@@ -7,14 +7,7 @@
  },
  "fields": [],
  "type": "rich",
- "description": "Dodrio Redux @ Choice Band
-Ability: Sheer Force
-EVs: 252 Atk / 4 SpD / 252 Spe
-Adamant Nature
-- Body Slam
-- Double-Edge
-- Dragon Claw
-- Dragon Dance",
+ "description": "Dodrio Redux @ Choice Band\rAbility: Sheer Force\rEVs: 252 Atk / 4 SpD / 252 Spe\rAdamant Nature\r- Body Slam\r- Double-Edge\r- Dragon Claw\r- Dragon Dance",
  "thumbnail": {
   "url": "https://forwardfeed.github.io/ER-nextdex/static/sprites/DODRIO_REDUX.png"
  }
